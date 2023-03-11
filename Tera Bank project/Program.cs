@@ -10,11 +10,17 @@ class MyMain
 
        Console.WriteLine("this is a second message");
        Console.WriteLine("myself...");
+        Console.WriteLine("Hello Sophie");
     }
 
+    //გიტს აქვს რამოდენიმე ტერმინი
+    //stage
+    //Commit
+    //Push
 
+    //Clone -დავაკოპიროთ მთლიანად რეპოზიტორი/Clone the repository
 
-
+    //Basic Code > improvements> Stage (prepared for Git) > Commit "message" (Fully implement to Git) > Push (send to Github) >
 
 }
 //
