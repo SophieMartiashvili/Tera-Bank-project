@@ -11,6 +11,8 @@ class MyMain
        Console.WriteLine("this is a second message");
        Console.WriteLine("myself...");
         Console.WriteLine("Hello Sophie");
+        guygyug
+
     }
 
     //გიტს აქვს რამოდენიმე ტერმინი
