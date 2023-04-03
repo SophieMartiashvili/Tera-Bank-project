@@ -14,7 +14,6 @@ class Program
 
         MyFirstMethod("Sophie", "DateTime", 33);
         Console.Write("Current Date is : ");
-        DateTime Now = DateTime.Now;
         Console.WriteLine(DateTime.Now.ToString("M/d/yyyy"));
         Console.ReadLine();
     }
